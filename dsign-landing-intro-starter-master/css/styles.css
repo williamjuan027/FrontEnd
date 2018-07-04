@@ -76,6 +76,8 @@ nav .nav-subscribe:hover {
 /* Main Section */
 
 .landing-container {
+  z-index: -1;
+  position: relative;
   padding-top: 100px;
   display: grid;
   grid-template-columns: 1fr 1fr;
